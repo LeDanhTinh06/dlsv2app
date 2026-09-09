@@ -694,8 +694,7 @@ export default function PlayerUpgradeSimulator() {
               Mô phỏng nâng cấp cầu thủ
             </h1>
             <p className="text-[12px] text-[#8a7f94] mt-0.5">
-              Phân bổ 100 điểm phát triển vào 8 chỉ số — mỗi chỉ số có hệ số
-              điểm riêng
+              Phân bổ 100 điểm phát triển vào 8 chỉ số
             </p>
           </div>
           <button
@@ -707,7 +706,7 @@ export default function PlayerUpgradeSimulator() {
         </div>
 
         <p className="text-[11px] text-[#5f5568] mb-4 px-1">
-          Mẹo: di chuột vào đúng nút{' '}
+          CHÚ Ý: di chuột vào đúng nút{' '}
           <span className="text-[#c9bfd4] font-medium">−10/−1/−.1</span> hoặc{' '}
           <span className="text-[#c9bfd4] font-medium">+10/+1/+.1</span> rồi
           nhấn <span className="text-[#c9bfd4] font-medium">phím Cách</span> để
@@ -893,9 +892,7 @@ export default function PlayerUpgradeSimulator() {
             </div>
 
             <p className="text-[10.5px] text-[#5f5568] leading-relaxed px-1">
-              Công cụ mô phỏng không chính thức, tự xây dựng để minh hoạ cơ chế
-              điểm phát triển. Chỉ số OVR được ước lượng theo trọng số vị trí và
-              có thể lệch so với số liệu thật trong game.
+              Công cụ mô phỏng KHÔNG CHÍNH XÁC - TỰ ĐI MÀ LÀM.
             </p>
           </div>
         </div>
