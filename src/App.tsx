@@ -6,7 +6,7 @@ const CAP = 100;
 
 const MULT = {
   spe: 1.55,
-  acc: 1.25,
+  acc: 1.255,
   sta: 0.55,
   str: 1.55,
   con: 2.1,
