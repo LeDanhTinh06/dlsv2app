@@ -84,6 +84,22 @@ const PLAYERS = [
     },
   },
   {
+    id: 'Rashford',
+    name: 'Marcus Rashford',
+    nation: 'ENG',
+    position: 'LW',
+    base: {
+      spe: 90.0,
+      acc: 81.0,
+      sta: 74.0,
+      str: 73.0,
+      con: 81.9,
+      pas: 80.9,
+      sho: 82.9,
+      tac: 33.0,
+    },
+  },
+  {
     id: 'haaland',
     name: 'Erling Haaland',
     nation: 'NOR',
