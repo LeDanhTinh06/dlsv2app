@@ -12,7 +12,7 @@ const MULT = {
   con: 2.1,
   pas: 1.0,
   sho: 1.0,
-  tac: 1.0,
+  tac: 0,98,
 };
 
 const LABELS = {
