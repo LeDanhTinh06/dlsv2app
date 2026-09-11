@@ -9,10 +9,10 @@ const MULT = {
   acc: 1.25,
   sta: 0.55,
   str: 1.52,
-  con: 2.1,
-  pas: 1.05,
-  sho: 1.05,
-  tac: 1.04,
+  con: 2.09,
+  pas: 1.016,
+  sho: 1.016,
+  tac: 1.006,
 };
 
 const LABELS = {
