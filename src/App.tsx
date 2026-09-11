@@ -5,14 +5,14 @@ const BUDGET = 100;
 const CAP = 100;
 
 const MULT = {
-  spe: 1.55,
-  acc: 1.266,
+  spe: 1.575,
+  acc: 1.25,
   sta: 0.55,
-  str: 1.55,
-  con: 2.09,
-  pas: 0.981,
-  sho: 0.981,
-  tac: 0.971,
+  str: 1.515,
+  con: 2.1,
+  pas: 1.0,
+  sho: 1.0,
+  tac: 1.0,
 };
 
 const LABELS = {
