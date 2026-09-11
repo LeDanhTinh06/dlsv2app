@@ -195,6 +195,22 @@ const PLAYERS = [
       tac: 53.0,
     },
   },
+   {
+    id: 'reij',
+    name: 'Tijjani Reijnders',
+    nation: 'NED',
+    position: 'CM',
+    base: {
+      spe: 76.0,
+      acc: 77.0,
+      sta: 87.0,
+      str: 70.0,
+      con: 83.0,
+      pas: 83.0,
+      sho: 76.0,
+      tac: 73.0,
+    },
+  },
   {
     id: 'vvd',
     name: 'Virgil van Dijk',
