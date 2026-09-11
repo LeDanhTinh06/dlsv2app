@@ -195,6 +195,22 @@ const PLAYERS = [
       tac: 53.0,
     },
   },
+  {
+    id: 'viet',
+    name: 'Florian Wirtz',
+    nation: 'GER',
+    position: 'AM',
+    base: {
+      spe: 81.9,
+      acc: 85.9,
+      sta: 88.9,
+      str: 59.9,
+      con: 90.9,
+      pas: 87.9,
+      sho: 79.9,
+      tac: 52.9,
+    },
+  },
    {
     id: 'reij',
     name: 'Tijjani Reijnders',
