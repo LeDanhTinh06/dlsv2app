@@ -8,7 +8,7 @@ const MULT = {
   spe: 1.58,
   acc: 1.25,
   sta: 0.55,
-  str: 1.515,
+  str: 1.525,
   con: 2.1,
   pas: 1.0,
   sho: 1.0,
