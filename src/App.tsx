@@ -5,7 +5,7 @@ const BUDGET = 100;
 const CAP = 100;
 
 const MULT = {
-  spe: 1.575,
+  spe: 1.58,
   acc: 1.25,
   sta: 0.55,
   str: 1.515,
