@@ -131,6 +131,22 @@ const PLAYERS = [
       tac: 40.9,
     },
   },
+   {
+    id: 'son',
+    name: 'Heung-min son',
+    nation: 'KOR',
+    position: 'CF',
+    base: {
+      spe: 85.1,
+      acc: 85.1,
+      sta: 82.9,
+      str: 66.9,
+      con: 84.9,
+      pas: 84.9,
+      sho: 83.0,
+      tac: 37.9,
+    },
+  },
   {
     id: 'kdb',
     name: 'Kevin De Bruyne',
