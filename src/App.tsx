@@ -11,7 +11,7 @@ const MULT = {
   str: 1.55,
   con: 2.1,
   pas: 0.98,
-  sho: 0.98,
+  sho: 0.97,
   tac: 0.97,
 };
 
