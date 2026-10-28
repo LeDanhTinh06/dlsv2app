@@ -131,6 +131,22 @@ const PLAYERS = [
       tac: 40.9,
     },
   },
+    {
+    id: 'Kane',
+    name: 'Kane 86',
+    nation: 'ENG',
+    position: 'CF',
+    base: {
+      spe: 75.9,
+      acc: 70.9,
+      sta: 86.9,
+      str: 91.9,
+      con: 88.7,
+      pas: 90.2,
+      sho: 96.9,
+      tac: 50.9,
+    },
+  },
    {
     id: 'son',
     name: 'Heung-min son',
