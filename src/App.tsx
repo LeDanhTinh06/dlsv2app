@@ -6,13 +6,13 @@ const CAP = 100;
 
 const MULT = {
   spe: 1.58,
-  acc: 1.261,
+  acc: 1.26,
   sta: 0.55,
   str: 1.52,
   con: 2.1,
   pas: 1.0,
   sho: 1.0,
-  tac: 0.9,
+  tac: 0.96,
 };
 
 const LABELS = {
